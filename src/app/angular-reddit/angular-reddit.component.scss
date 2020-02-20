@@ -1,0 +1,18 @@
+.segment {
+    width: 600px;
+    height: 200px;
+    border: 1px solid;
+    padding: 20px;
+    background: aliceblue;
+}
+
+.field {
+    display: grid;
+    padding: 12px;
+}
+
+.button {
+    float: right;
+    background: darkseagreen;
+    margin-top: 5px;
+}
